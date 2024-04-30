@@ -1,0 +1,160 @@
+.row1{
+    background-color:red;
+}
+.row-1{
+    background-color: blue;
+    margin-top: -18px;
+    margin-left: 50%;
+    color: blue;
+}
+
+.row2{
+    background-color: green;
+}
+.row-2{
+    background-color: blue;
+    margin-left: 90%;
+    margin-top: -18px;
+    color: blue;
+}
+
+.row3{
+    background-color: red;
+}
+.row-3{
+    background-color: green;
+    margin-left: 10%;
+    margin-top: -18px;
+    color: green;
+}
+.row_3{
+    background-color: blue;
+    margin-top: -18px;
+    margin-left: 90%;
+    color: blue;
+}
+
+.row4{
+    background-color: red;
+}
+.row-4{
+    background-color: blue;
+    margin-left: 90%;
+    margin-top: -18px;
+    color: blue;
+}
+
+.row5{
+    background-color: green;
+}
+.row-5{
+    background-color: red;
+    margin-left: 49%;
+    margin-right: 50%;
+    margin-top: -16px;
+    /* margin-top: -18px; */
+    height: 13px;
+    /* how to sqeeze from downside??? */
+}
+
+.row6{
+background-color: red;
+}
+
+.row-6{
+    background-color: blue;
+    margin-left: 45%;
+    margin-top: -18px;
+    margin-right: 50%;
+    color: blue;
+}
+
+.row7{
+background-color: red;
+}
+
+.row-7{
+background-color: blue;
+margin-left: 10%;
+margin-top: -18px;
+color: green;
+}
+
+.row_7{
+background-color: green;
+margin-top: -18px;
+margin-left: 10%;
+margin-top: -11px;
+height: 5px;
+/* how to sqeeze from downside??? */
+}
+
+.row8{
+    background-color: yellow;
+}
+    
+.row-8{
+        background-color: green;
+        margin-left: 3%;
+        margin-top: -18px;
+        margin-right: 75%;
+        color: green;
+}
+.row-8-1{
+    background-color: green;
+    margin-left: 30%;
+    margin-top: -18px;
+    margin-right: 50%;
+    color: green;
+
+}
+
+.row-8-2{
+    background-color: green;
+    margin-left: 55%;
+    margin-top: -18px;
+    margin-right: 25%;
+    color: green;
+}
+
+.row-8-3{
+    background-color: green;
+    margin-left: 80%;
+    margin-top: -18px;
+    margin-right: 3%;
+    color: green;
+}
+
+.row9{
+    background-color: yellow;
+}
+.row-9{
+    background-color: green;
+    margin-left: 10%;
+    margin-top: -18px;
+    margin-right: 89%;
+    color: green;
+}
+.row-9-1{
+background-color: green;
+margin-left: 35%;
+margin-top: -18px;
+margin-right: 64%;
+color: green;
+}
+
+.row-9-2{
+background-color: green;
+margin-left: 60%;
+margin-top: -18px;
+margin-right: 39%;
+color: green;
+}
+
+.row-9-3{
+background-color: green;
+margin-left: 85%;
+margin-top: -18px;
+margin-right: 14%;
+color: green;
+} 
